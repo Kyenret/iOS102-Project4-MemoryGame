@@ -36,15 +36,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x]Card flipping animation is added using rotation3DEffect, providing a smooth transition between the face-up and face-down states of the cards.
+- [x] Card flipping animation is added using rotation3DEffect, providing a smooth transition between the face-up and face-down states of the cards.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/22770d16f0364afaa0e62ae8d42a96fa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/22770d16f0364afaa0e62ae8d42a96fa-with-play.gif">
+    </a>
 
 ## Notes
 
